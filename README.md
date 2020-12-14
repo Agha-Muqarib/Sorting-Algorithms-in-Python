@@ -7,6 +7,6 @@ The repository includes 4 different types of sorting algorithms they be:
 - Insertion Sort
 - Quick Sort (Ascending and descending order)
 
- Finally, there is a utilization of this sorting, which firsts sorts a list and the searches the element you want from the list and brings you its index.
+ Finally, there is a utilization of this sorting, which firsts sorts a list and then searches the element you want from the list and brings you it's index.
  
- P.S: It's supposed to be a help for beginners, not a copy paste utility, if it even reaches them :D 
+ P.S: Its supposed to be a help for beginners, not a copy paste utility, if it even reaches them :D 
