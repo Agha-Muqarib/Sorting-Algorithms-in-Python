@@ -1,3 +1,5 @@
+# Sorting Algorithms in Python:
+
 Sorting a list in data structures and algorithm without using built-in functions is hectic for some as it was for me earlier. To help, here's what I was able to code.
 
 The repository includes 4 different types of sorting algorithms they be:
